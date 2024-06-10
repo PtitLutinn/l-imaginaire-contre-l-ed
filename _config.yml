@@ -4,4 +4,4 @@ collections:
     output: true
 plugins:
   - jekyll-feed
-baseurl: /mon-scribouilli
+baseurl: /l-imaginaire-contre-l-ed
