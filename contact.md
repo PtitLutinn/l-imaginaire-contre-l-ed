@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: "Contact"
+order: 1
+in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour les questions techniques, envoyer un mail a petit_lutin@riseup.net
+Pour proposer du contenu et participer, contacter ??? 
