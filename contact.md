@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 2
 in_menu: true
 ---
 Pour les questions techniques, envoyer un mail a petit_lutin@riseup.net
