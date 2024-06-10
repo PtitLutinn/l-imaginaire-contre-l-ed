@@ -11,4 +11,5 @@ Pour vos photos de profil, un bandeau pour annoncer a vos followers que vous com
 
 ![bandeau rouge en bas d'un template transparent carré avec écrit en blanc «cette auteur'ice combat l’extrême droite»]({% link images/Bandeau rouge - auteur-ice.png %})
 
+
 Faites en bon usage ! 
