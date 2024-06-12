@@ -21,3 +21,5 @@ Si tout va bien, vous devriez recevoir un mail vous indiquant que votre demande 
 Puis, dans un second temps, un mail (ou un courrier papier) indiquant que la demande a été validée. 
 
 Bravo, vous pouvez allez voter !
+
+Pour les français a l'étranger vous pouvez aller [ici](https://www.diplomatie.gouv.fr/fr/services-aux-francais/voter-a-l-etranger/http-publication-diplomatie-gouv-fr-fr-services-aux-citoyens-droit-de-vote-et-elections-a-l-etranger-liste-electorale-18-05-17/article/inscription-sur-la-liste-electorale-consulaire) pour trouver les informations sur la procédure.
